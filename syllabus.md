@@ -20,8 +20,8 @@ Instructors:
 
 > Section(s) | Instructor | Office hours
 > ---------- | ---------- | ------------
-> 101 & 102  | Krishna Kambhampaty <kkambhampaty@ycp.edu> KEC 115 | Thu 9:30-2:30pm, and by appointment
-> 103   | Dean Zeller  <dzeller@ycp.edu>  | TBD
+> 101 & 102  | Krishna Kambhampaty <kkambhampaty@ycp.edu>  | KEC 115 Thu 9:30-2:30pm, and by appointment
+> 103   | Dean Zeller  <dzeller@ycp.edu>  | KEC136 Wed/Fri 10:30 am-12:00 pm or by appointment
 
 Email Communication: Please email for setting up appointments with any questions on the course content. We will try to reply to emails **with in one business day** (**not including weekends**).
 

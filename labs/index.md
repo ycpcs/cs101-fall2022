@@ -14,6 +14,7 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must 
 > Sep 7         | [Lab 3: Math Functions](lab03.html)                | n/a
 > Sep 11        | [Lab 4: Salary Calculator](lab04.html)             | [CS101\_Lab04.zip](CS101_Lab04.zip)
 > Sep 13        | [Lab 5: Animal Classifier](lab05.html)             | [CS101\_Lab05.zip](CS101_Lab05.zip)
+> Sep 15        | [Lab 6: Checking the Weather](lab06.html)          | [CS101\_Lab06.zip](CS101_Lab06.zip)
 > Sep 20        | [Lab 7: For loops](lab07.html)                     | n/a
 > Sep 25        | [Lab 8: Gone loopy](lab08.html)                    | [CS101\_Lab08.zip](CS101_Lab08.zip)
 > Sep 27        | [Lab 9: Bar Graph](lab09.html) <br /> [Lab 10: Fancy Rectangle](lab10.html) | [CS101\_Lab09.zip](CS101_Lab09.zip) <br /> [CS101\_Lab10.zip](CS101_Lab10.zip)
@@ -26,10 +27,14 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must 
 > Oct 25        | [Lab 16: Function Design](lab16.html)              | [CS101\_Lab16.zip](CS101_Lab16.zip)
 > Nov 6         | [Lab 18: Fancy Output](lab18.html) <br /> [Lab 21: Boing! revisited](lab21.html) | [CS101\_Lab18.zip](CS101_Lab18.zip) <br /> [CS101\_Lab21.zip](CS101_Lab21.zip)
 > Nov 8         | [Lab 19: Boing!](lab19.html) <br /> [Lab 23: Boing! with pointers](lab23.html) | [CS101\_Lab19.zip](CS101_Lab19.zip) <br /> [CS101\_Lab23.zip](CS101_Lab23.zip)
-> Nov 13, 15    | [Lab 24: Mini Golf](lab24.html)                    | [CS101\_Lab24.zip](CS101_Lab24.zip)
 > Nov 20        | [Lab 17: Grass Fire](lab17.html)                   | [CS101\_Lab17.zip](CS101_Lab17.zip)
-> Nov 22, Dec 4 | [Lab 25: Boing! particle simulation](lab25.html)   | [CS101\_Lab25.zip](CS101_Lab25.zip)
 
+
+
+<!--
+> Nov 13, 15    | [Lab 24: Mini Golf](lab24.html)                    | [CS101\_Lab24.zip](CS101_Lab24.zip)
+> Nov 22, Dec 4 | [Lab 25: Boing! particle simulation](lab25.html)   | [CS101\_Lab25.zip](CS101_Lab25.zip)
+-->
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->

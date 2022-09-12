@@ -3,9 +3,9 @@ layout: default
 title: "Assignment 1: Freefalling"
 ---
 
-Design due: **Friday, September 6th** at the beginning of class
+Design due: **Friday, September 16th** at the beginning of class
 
-Program due: **Thursday, September 12th by 11:59 PM**
+Program due: **Thursday, September 22nd by 11:59 PM**
 
 Getting Started
 ===============
@@ -46,7 +46,7 @@ Your Tasks
 
 Based on the requirements described below in the "Program" section, fill out a [design template](../design-template.pdf).  Consider what the input and output of the program are, and what steps are necessary to compute the output from the input.
 
-The design is due at the beginning of class on **Friday, September 6th**.
+The design is due at the beginning of class on **Friday, September 16th**.
 
 ## Program
 

@@ -6,11 +6,11 @@ title: "Assignment 2: Calendar"
 **Due dates**:
 
 * Milestone 1:
-    * Design due: **Wednesday, September 13th** in class
-    * Code due: **Thursday, September 19th** by 11:59 PM
+    * Design due: **Tuesday, Sept 20th** in class
+    * Code due: **Tuesday, Sept 27th** by 11:59 PM
 * Milestone 2:
-    * Design due: **Wednesday, September 25th** in at the beginning of class (I'll collect, scan, and return)
-    * Code due: **Wednesday, October 2nd** by 11:59 PM
+    * Design due: **Friday, Sept 30th** in at the beginning of class
+    * Code due: **Friday, Oct 7th** by 11:59 PM
 
 
 Getting Started
@@ -154,9 +154,9 @@ Any Julian Day Number can be taken modulo 7 in order to determine which day of t
 
 ### Deliverables for Milestone 1
 
-The [design artifact](../design-template.pdf) for Milestone 1 is due at the beginning class on **Wednesday, September 13th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
+The [design artifact](../design-template.pdf) for Milestone 1 is due at the beginning class on **Tuesday, Sept 20th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
 
-The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Thursday, September 19th**.
+The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Tuesday, Sept 27th**.
 
 ## Milestone 2
 
@@ -211,9 +211,9 @@ Consider using multiple counters for which day is currently being printed and fo
 
 ### Deliverables for Milestone 2
 
-The [design artifact](../design-template.pdf) for Milestone 2 is due at the beginning class on **Friday, September 20th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
+The [design artifact](../design-template.pdf) for Milestone 2 is due at the beginning class on **Friday, Sept 30th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
 
-The code for Milestone 2 should be submitted to Marmoset (using the command `make submit_ms2`) by the end of the day on **Saturday, September 28th**.
+The code for Milestone 2 should be submitted to Marmoset (using the command `make submit_ms2`) by the end of the day on **Friday, Oct 7th**.
 
 Grading
 =======

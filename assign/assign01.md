@@ -5,7 +5,7 @@ title: "Assignment 1: Freefalling"
 
 Design due: **Friday, September 16th** at the beginning of class
 
-Program due: **Thursday, September 22nd by 11:59 PM**
+Program due: **Wednesday, September 21nd by 11:59 PM**
 
 Getting Started
 ===============

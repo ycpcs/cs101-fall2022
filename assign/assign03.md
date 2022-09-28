@@ -6,10 +6,10 @@ title: "Assignment 3: Falling Dominoes"
 **Due dates**:
 
 * Milestone 1:
-    * Code due: **Friday, October 11th** by 11:59 PM
+    * Code due: **Tuesday, October 11th** by 11:59 PM
 * Milestone 2:
-    * Design due: **Friday, October 11th** in class
-    * Code due: **Friday, October 18th** by 11:59 PM
+    * Design due: **Thursday, October 13th** in class
+    * Code due: **Thursday, October 20th** by 11:59 PM
 
 Getting Started
 ===============
@@ -142,7 +142,7 @@ Use an array of integer values to store the state of each domino and a counter t
 
 ### Deliverables for Milestone 1
 
-The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Friday, October 11th**.
+The code for Milestone 1 should be submitted to Marmoset (using the command `make submit_ms1`) by the end of the day on **Tuesday, October 11th**.
 
 ## Milestone 2
 
@@ -225,9 +225,9 @@ Get code working to simulate a single time step before working on multiple time 
 
 ### Deliverables for Milestone 2
 
-The [design artifact](../design-template.pdf) for Milestone 2 is due at the beginning class on **Friday, October 11th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
+The [design artifact](../design-template.pdf) for Milestone 2 is due at the beginning class on **Thursday, October 13th**.  Make sure that you fill out the "Strategy" and "Control flow sketch" sections of the design template.
 
-The code for Milestone 2 should be submitted to Marmoset (using the command `make submit_ms2`) by the end of the day on **Friday, October 18th**.
+The code for Milestone 2 should be submitted to Marmoset (using the command `make submit_ms2`) by the end of the day on **Thursday, October 20th**.
 
 Grading
 =======

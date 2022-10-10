@@ -47,7 +47,7 @@ All information about the course will be posted here.
 * **Nov 11** &mdash; [Assignment 5](assign/assign05.html) is due by 11:59PM
 * **Dec 01 (103) &mdash; **Midterm Exam 3**
 * **Dec 02 (101) &mdash; **Midterm Exam 3**
-* **Dec 02 (102) &mdash; **Midterm Exam 3*
+* **Dec 02 (102) &mdash; **Midterm Exam 3**
 * **Dec 08 (103) &mdash; **FINAL EXAM @ 10:15 am - 12:15 pm**
 * **Dec 09 (101) &mdash; **FINAL EXAM @ 8:00 am - 10:00 am**
 * **Dec 09 (102) &mdash; **FINAL EXAM @ 10:15 am - 12:15 pm**

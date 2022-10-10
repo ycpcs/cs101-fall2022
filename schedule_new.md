@@ -29,20 +29,20 @@ Week 6  | [Lecture 10: Arrays](lectures/lecture10.html) cont. | |
 Oct 3 Week 7  | [Lecture 11: Multidimensional arrays](lectures/lecture11.html)<br>Chapter 6, *Multidimensional Arrays* | Week9 &rarr; [tic-tac-toe check](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1336)\*, [Magic Squares](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1347) | &mdash;
 Week 7  | [Lecture 12: Functions, top-down design](lectures/lecture12.html)<br>Chapter 7 through *Automatic Variables* | Week9 &rarr;  [PrintSum](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1309)\*, [Deep Thought](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1310)\*, [Find Primes](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1311)![gold star](img/goldstar-tiny.png) | &mdash;
 Oct 10 Week 8 | [Lecture 13: Functions that return a value](lectures/lecture13.html)<br>Chapter 7 through *Checking Function Arguments* | Week10 &rarr; [SumBetween](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1315)\*, [MaxOfThree](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1316)\*, [feetToMeters](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1333)\*, [inRange](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1334)\*, [ContainersNeeded](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1345), [WeeklyPay](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1346), [diamond](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1335)![gold star](img/goldstar-tiny.png), [check\_if\_armstrong](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1354)![gold star](img/goldstar-tiny.png) | 7.7
-Oct 17 Week 9 | *Exam 2 Review* | | 
-Week 9 | **Exam 2** | |
-Oct 24 Week 10 | [Lecture 16: Struct types](lectures/lecture16.html)<br>Chapter 8, through *Using Structures in Expressions*<br>| Week12 &rarr; [find\_midpoint](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1362)\* | &mdash;
-Week 10 | [Lecture 17: Using structs with functions](lectures/lecture17.html)<br>Chapter 8, through *Initializing Structures* | Week12 &rarr; [find\_midpoint](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1362)\* | &mdash;
-Oct 31 Week 11| [Lecture 15: Pointers, reference parameters](lectures/lecture15.html)<br>Chapter 10 through *Using Pointers in Expressions* <br /> | Week13 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1317)\*, [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1318)\*, [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1344)\* | &mdash;
-Week 11| [Lecture 18: Pointers to structures](lectures/lecture18.html)<br>Chapter 10, *Working with Pointers and Structures* <br /> [Lecture 19: Composition](lectures/lecture19.html)<br>Chapter 8, *Structures Containing Structures* | Week13 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1317)\*, [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1318)\*, [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1344)\* | &mdash;
-Nov 7 Week 12  | [Lecture 14: Arrays and functions](lectures/lecture14.html)<br>Chapter 7 through *Multidimensional Variable-Length Arrays and Functions* | Week15 &rarr; [ArraySum](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1312)\*, [IsAscending](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1314)\*, [countOdd](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1313)\*, [Min Array Entry](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1348) | &mdash;
+Week 8 | [Lecture 16: Struct types](lectures/lecture16.html)<br>Chapter 8, through *Using Structures in Expressions*<br>| Week12 &rarr; [find\_midpoint](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1362)\* | &mdash;
+Oct 17 Week 9 | [Lecture 17: Using structs with functions](lectures/lecture17.html)<br>Chapter 8, through *Initializing Structures* | Week12 &rarr; [find\_midpoint](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1362)\* | &mdash;
+Week 9 | *Exam 2 Review* | | 
+Oct 24 Week 10 | **Exam 2** | |
+Week 10| [Lecture 15: Pointers, reference parameters](lectures/lecture15.html)<br>Chapter 10 through *Using Pointers in Expressions* <br /> | Week13 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1317)\*, [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1318)\*, [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1344)\* | &mdash;
+Oct 31 Week 11| [Lecture 18: Pointers to structures](lectures/lecture18.html)<br>Chapter 10, *Working with Pointers and Structures* <br /> [Lecture 19: Composition](lectures/lecture19.html)<br>Chapter 8, *Structures Containing Structures* | Week13 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1317)\*, [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1318)\*, [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1344)\* | &mdash;
+Week 11  | [Lecture 14: Arrays and functions](lectures/lecture14.html)<br>Chapter 7 through *Multidimensional Variable-Length Arrays and Functions* | Week15 &rarr; [ArraySum](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1312)\*, [IsAscending](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1314)\*, [countOdd](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1313)\*, [Min Array Entry](https://cs.ycp.edu/cloudcoder/#exercise?c=27,p=1348) | &mdash;
+Nov 7 Week 12 | [Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
 Week 12 | [Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
 Nov 14 Week 13 | Catch up day | &mdash; | &mdash;
 Week 13 | Catch up day | &mdash; | &mdash;
-Nov 21 Week 14 | Catch up day | &mdash; | &mdash;
-Nov 23 - 27 Week 14| **No Classes - Thanksgiving Holidays** |  |
-Nov 28 Week 15 | [Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* | &mdash; | &mdash;
-Week 15 | *Exam 3 Review* | | 
+Nov 22 Week 14 | Catch up day | &mdash; | &mdash;
+Nov 23 - 27 | **No Classes - Thanksgiving Holidays** |  |
+Nov 28 Week 15 | *Exam 3 Review* | |
 Thu, Dec 1 | **Midterm Exam 3 for Section 103** 
 Fri, Dec 2 | **Midterm Exam 3 for Section 101 & 102** 
 Thu, Dec 08| **Final Exam for Section 103 @ 10:15 AM - 12:15 PM**

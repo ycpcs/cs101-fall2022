@@ -39,6 +39,11 @@ All information about the course will be posted here.
 ## News
 
 * **Aug 22** &mdash; Welcome back!  Please read [How to succeed in CS 101](success.html).
+* **Oct 8 - 11** &mdash; **NO CLASS - Fall BREAK**
+* **Oct 11** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
+* **Oct 13** &mdash; The design for [Assignment 3](assign/assign03.html) **Milestone 2** is due
+* **Oct 20** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
+
 
 <!--
 
@@ -49,10 +54,10 @@ All information about the course will be posted here.
 * **Sep 22** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 1** is due by 11:59PM
 * **Sep 29** &mdash; The design for [Assignment 2](assign/assign02.html) **Milestone 2** is due in class
 * **Oct 6** &mdash; The code for [Assignment 2](assign/assign02.html) **Milestone 2** is due by 11:59PM
-* **Oct 9 - 12** &mdash; **NO CLASS - Fall BREAK**
-* **Oct 15** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
-* **Oct 22** &mdash; The design for [Assignment 3](assign/assign03.html) **Milestone 2** is due in class
-* **Oct 29** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
+
+
+
+
 * **Nov 12** &mdash; The code for [Assignment 4](assign/assign04.html) is due by 11:59PM
 * **Nov 18** &mdash; [Assignment 5](assign/assign05.html) is due by 11:59PM
 * **Nov 30** &mdash; The code for [Assignment 6](assign/assign06.html) **Milestone 1** is due by 11:59PM

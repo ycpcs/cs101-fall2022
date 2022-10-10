@@ -21,13 +21,13 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must 
 > Oct 2         | **Optional** [Lab 11: Barn Door](lab11.html)       | [CS101\_Lab11.zip](CS101_Lab11.zip)
 > Oct 9         | [Lab 12: Array Exercises](lab12.html)              | n/a
 > Oct 11        | [Lab 12b: Sorting and Finding Median of an Array](lab12b.html) | [CS101\_Lab12b.zip](CS101_Lab12b.zip)
-> Oct 16        | **Optional** [Lab 13: Kitten Pictures](lab13.html) | [CS101\_Lab13.zip](CS101_Lab13.zip)
-> Oct 18        | [Lab 14: Right Triangle](lab14.html)               | [CS101\_Lab14.zip](CS101_Lab14.zip) 
-> Oct 23        | [Lab 15: Simple Stats](lab15.html)                 | [CS101\_Lab15.zip](CS101_Lab15.zip)
-> Oct 25        | [Lab 16: Function Design](lab16.html)              | [CS101\_Lab16.zip](CS101_Lab16.zip)
-> Nov 6         | [Lab 18: Fancy Output](lab18.html) <br /> [Lab 21: Boing! revisited](lab21.html) | [CS101\_Lab18.zip](CS101_Lab18.zip) <br /> [CS101\_Lab21.zip](CS101_Lab21.zip)
-> Nov 8         | [Lab 19: Boing!](lab19.html) <br /> [Lab 23: Boing! with pointers](lab23.html) | [CS101\_Lab19.zip](CS101_Lab19.zip) <br /> [CS101\_Lab23.zip](CS101_Lab23.zip)
-> Nov 20        | [Lab 17: Grass Fire](lab17.html)                   | [CS101\_Lab17.zip](CS101_Lab17.zip)
+> Oct 15        | **Optional** [Lab 13: Kitten Pictures](lab13.html) | [CS101\_Lab13.zip](CS101_Lab13.zip)
+> Oct 15        | [Lab 14: Right Triangle](lab14.html)               | [CS101\_Lab14.zip](CS101_Lab14.zip) 
+> Oct 19        | [Lab 15: Simple Stats](lab15.html)                 | [CS101\_Lab15.zip](CS101_Lab15.zip)
+> Oct 22        | [Lab 16: Function Design](lab16.html)              | [CS101\_Lab16.zip](CS101_Lab16.zip)
+> Nov 2         | [Lab 18: Fancy Output](lab18.html) <br /> [Lab 21: Boing! revisited](lab21.html) | [CS101\_Lab18.zip](CS101_Lab18.zip) <br /> [CS101\_Lab21.zip](CS101_Lab21.zip)
+> Nov 9         | [Lab 19: Boing!](lab19.html) <br /> [Lab 23: Boing! with pointers](lab23.html) | [CS101\_Lab19.zip](CS101_Lab19.zip) <br /> [CS101\_Lab23.zip](CS101_Lab23.zip)
+> Nov 14        | [Lab 17: Grass Fire](lab17.html)                   | [CS101\_Lab17.zip](CS101_Lab17.zip)
 
 
 

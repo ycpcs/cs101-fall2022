@@ -12,7 +12,7 @@ This page links to practice exams.
 
 [Exam 2, Spring 2017](cs101-spring2017-exam02.pdf), [Programming zipfile](CS101_Exam02.zip)
 > [Exam 2 solution (written questions)](cs101-spring2017-exam02-solution.pdf), 
->[Exam 2 solution (programming questions)](CS101_Exam02_Solution.zip)
+> <br>[Exam 2 solution (programming questions)](CS101_Exam02_Solution.zip)
 
 
 <!--

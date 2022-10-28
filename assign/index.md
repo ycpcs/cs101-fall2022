@@ -16,7 +16,7 @@ Assignment | File | Due date(s)
 [Assignment 1: Freefalling](assign01.html) | [CS101\_Assign01.zip](CS101_Assign01.zip) | Design: Fri, Sept 16th<br>Code: Wed, Sept 21st
 [Assignment 2: Calendar](assign02.html) | [CS101\_Assign02.zip](CS101_Assign02.zip) | MS1 Design: Tue, Sept 20th<br>MS1 Code: Tues, Sept 27th<br>MS2 Design: Fri, Sept 30th<br>MS2 Code: Fri, Oct 7th
 [Assignment 3: Dominoes](assign03.html) | [CS101\_Assign03.zip](CS101_Assign03.zip) | MS1 Code: Tue, Oct 11th<br>MS2 Design: Thu, Oct 13th<br>MS2 Code: Thu, Oct 20th
-[Assignment 4: Roulette](assign04.html) | [CS101\_Assign04.zip](CS101_Assign04.zip) | Code: Fri, Oct 28th
+[Assignment 4: Roulette](assign04.html) | [CS101\_Assign04.zip](CS101_Assign04.zip) | Code: Wed, Nov 16th
 [Assignment 5: Struct Exercises](assign05.html) | n/a | Fri, Nov 11th
 
 

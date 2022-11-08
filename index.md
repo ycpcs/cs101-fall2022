@@ -43,7 +43,7 @@ All information about the course will be posted here.
 * **Oct 11** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 1** is due by 11:59PM
 * **Oct 13** &mdash; The design for [Assignment 3](assign/assign03.html) **Milestone 2** is due
 * **Oct 20** &mdash; The code for [Assignment 3](assign/assign03.html) **Milestone 2** is due by 11:59PM
-* **Oct 28** &mdash; The code for [Assignment 4](assign/assign04.html) is due by 11:59PM
+* **Nov 16** &mdash; The code for [Assignment 4](assign/assign04.html) is due by 11:59PM
 * **Nov 11** &mdash; [Assignment 5](assign/assign05.html) is due by 11:59PM
 * **Dec 01 (103) &mdash; **Midterm Exam 3**
 * **Dec 02 (101) &mdash; **Midterm Exam 3**
